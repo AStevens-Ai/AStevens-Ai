@@ -3,7 +3,7 @@
 
 <h3 align="center">
         <samp>&#128540; Hey There! I am
-                <b><a target="_blank" href="https://github.com/AStevens-Ai">AStevens-Ai</a></b>
+                <b><a target="_blank" href="https://alexander-stevens.com/">AStevens-Ai</a></b>
         </samp>
 </h3>
 <!-- About Section -->
