@@ -15,6 +15,9 @@
  ✌️ &emsp; I enjoy Programming and collaborating with other devs<br/><br/>
  ❤️ &emsp; Love to challenge myself and learn new technologies<br/><br/>
  💬 &emsp; Contact me? Reach me through killawat130@gmail.com<br/><br/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AStevens-Ai&hide=css,scss,html&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=AStevens-Ai&theme=algolia&show_icons=true)](https://github.com/Astevens-Ai)
+
 
 </p>
 <br/>
